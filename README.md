@@ -19,11 +19,11 @@ This repository contains my solution for Task 2 of the British Airways virtual i
 
 ## Usage
 1. Clone the repository:
-
+https://github.com/Mobisafrankline/british-customer-prediction.git
 
 2. Install the required dependencies:
-
-
+pip install pycountry-convert
+pip install xgboost
 3. Explore the project notebooks in the `notebooks` directory for detailed analysis steps.
 
 ## Results
